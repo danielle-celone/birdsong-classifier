@@ -4,4 +4,5 @@ torchaudio
 librosa
 numpy
 matplotlib
+pathlib
 scikit-learn
